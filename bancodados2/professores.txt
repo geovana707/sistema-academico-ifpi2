@@ -1,0 +1,8 @@
+1;carlos;7b,8b,9b;quimica
+2;geovana;7b;geografia
+3;cdb;caliquinha;pacto
+4;bento;5b;biol9ogia
+5;gg;gg;gg
+6;yy;jj;ponto
+7;hhh;hhjk;nhbvg
+8;bb;bb;bb
