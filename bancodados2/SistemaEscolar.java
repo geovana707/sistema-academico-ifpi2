@@ -31,7 +31,7 @@ public class SistemaEscolar {
                 op = -1;
             }
         }
-        System.out.println("\nSistema encerrado. Sucesso nos estudos, GG!");
+        System.out.println("\nSistema encerrado!");
     }
 
     public static void menu(String arq, String tipo) {
